@@ -1,5 +1,5 @@
 @prefix : <#>.
-@prefix dbr: <http://dbpedia.org/resource/>
+@prefix dbr: <http://dbpedia.org/resource/>.
 
 :Dan :likesMedia dbr:Westworld_(TV_series),
                  dbr:Industry_(TV_series),
