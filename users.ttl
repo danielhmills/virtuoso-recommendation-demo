@@ -5,7 +5,7 @@
                  dbr:Industry_(TV_series),
                  dbr:Wandavision,
                  dbr:The_Boys_(TV_series),
-                 dbr:Ahsoka_(TV_series);
+                 dbr:Ahsoka_(TV_series).
 
 :knows :Alice.
 
