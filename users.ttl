@@ -1,25 +1,25 @@
 @prefix : <#>.
 @prefix dbr: <http://dbpedia.org/resource/>.
 
-:Dan :likesMedia dbr:Westworld_(TV_series),
-                 dbr:Industry_(TV_series),
+:Dan :likesMedia dbr:Westworld_\\(TV_series\\),
+                 dbr:Industry_\\(TV_series\\),
                  dbr:Wandavision,
-                 dbr:The_Boys_(TV_series),
-                 dbr:Ahsoka_(TV_series).
+                 dbr:The_Boys_\\(TV_series\\),
+                 dbr:Ahsoka_\\(TV_series\\).
 
 :knows :Alice.
 
-:Bob :likesMedia dbr:Billions_(TV_series),
-                 dbr:Industry_(TV_series),
+:Bob :likesMedia dbr:Billions_\\(TV_series\\),
+                 dbr:Industry_\\(TV_series\\),
                  dbr:The_Mandalorian,
-                 dbr:The_Ricky_Gervais_Show_(TV_series),
-                 dbr:Loki_(TV_series).
+                 dbr:The_Ricky_Gervais_Show_\\(TV_series\\),
+                 dbr:Loki_\\(TV_series\\).
 :knows :Alice.
 
-:Alice :likesMedia dbr:The_Expanse_(TV_series),
-                 dbr:Chernobyl_(miniseries),
+:Alice :likesMedia dbr:The_Expanse_\\(TV_series\\),
+                 dbr:Chernobyl_\\(miniseries\\),
                  dbr:A_Black_Lady_Sketch_Show,
-                 dbr:Industry_(TV_series),
-                 dbr:Jack_Ryan_(TV_series).
+                 dbr:Industry_\\(TV_series\\),
+                 dbr:Jack_Ryan_\\(TV_series\\).
 :Alice :knows :Dan, 
               :Bob.
