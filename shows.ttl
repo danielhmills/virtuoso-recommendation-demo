@@ -1,0 +1,1826 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix ns4:	<http://dbpedia.org/resource/Catch_and_Kill:> .
+@prefix ns5:	<http://dbpedia.org/resource/Deadwood:> .
+@prefix ns6:	<http://dbpedia.org/resource/Phat_Tuesdays:> .
+@prefix ns7:	<http://dbpedia.org/resource/EUE/> .
+@prefix ns8:	<http://dbpedia.org/resource/The_Lord_of_the_Rings:> .
+@prefix ns9:	<http://dbpedia.org/resource/The_Mighty_Ducks:> .
+@prefix ns10:	<http://dbpedia.org/resource/Roth/> .
+@prefix ns11:	<http://dbpedia.org/resource/Lego_Star_Wars:> .
+@prefix ns12:	<http://dbpedia.org/resource/Bunim/> .
+@prefix ns13:	<http://dbpedia.org/resource/Small_Town_News:> .
+@prefix ns14:	<http://dbpedia.org/resource/Star_Wars:> .
+@prefix ns15:	<http://dbpedia.org/resource/Winning_Time:> .
+@prefix ns16:	<http://dbpedia.org/resource/Forever_Summer:> .
+@prefix ns17:	<http://dbpedia.org/resource/The_Boarding_School:> .
+@prefix ns18:	<http://dbpedia.org/resource/The_Boys_Presents:> .
+@prefix ns19:	<http://dbpedia.org/resource/The_Country_Mouse_and_the_City_Mouse:> .
+@prefix ns20:	<http://dbpedia.org/resource/Tollin/> .
+@prefix ns21:	<http://dbpedia.org/resource/Chip_\u0027n\u0027_Dale:> .
+@prefix ns22:	<http://dbpedia.org/resource/Kung_Fu_Panda:> .
+@prefix ns23:	<http://dbpedia.org/resource/Rasputin:> .
+@prefix ns24:	<http://dbpedia.org/resource/She-Hulk:> .
+
+<http://dbpedia.org/resource/Carniv\u00E0le>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Carniv\u00E0le"@en ;
+	dbo:company	<http://dbpedia.org/resource/3_Arts_Entertainment> , dbr:HBO ;
+	dbo:genre	dbr:Mystery_fiction , dbr:Dark_fantasy , dbr:Historical_drama ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Caronte_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Caronte (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/Mediaset_Espa\u00F1a> ;
+	dbo:genre	dbr:Legal_drama , dbr:Family_drama , dbr:Police_drama ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:Cars_on_the_Road
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Cars on the Road"@en ;
+	dbo:company	dbr:Pixar ;
+	dbo:genre	dbr:Comedy ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+dbr:Cast_a_Deadly_Spell
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Cast a Deadly Spell"@en ;
+	dbo:company	dbr:HBO_Pictures ;
+	dbo:genre	dbr:Fantasy_film ;
+	dbo:network	dbr:HBO .
+ns4:_The_Podcast_Tapes
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Catch and Kill: The Podcast Tapes"@en ;
+	dbo:company	dbr:HBO_Films , <http://dbpedia.org/resource/World_of_Wonder_(company)> ;
+	dbo:genre	dbr:Television_documentary ;
+	dbo:network	dbr:HBO .
+dbr:Q_Into_the_Storm
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Q Into the Storm"@en ;
+	dbo:company	dbr:Hyperobject_Industries , dbr:HBO_Films ;
+	dbo:genre	dbr:Television_documentary ;
+	dbo:network	dbr:HBO .
+dbr:Room_104
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Room 104"@en ;
+	dbo:company	dbr:Duplass_Brothers_Productions ;
+	dbo:genre	dbr:Anthology_series , dbr:Comedy , dbr:Horror_fiction , dbr:Drama , <http://dbpedia.org/resource/Thriller_(genre)> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Santos_Dumont_(miniseries)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Santos Dumont (miniseries)"@en ;
+	dbo:company	dbr:HBO_Brazil ;
+	dbo:genre	dbr:Biographical_film ;
+	dbo:network	dbr:HBO .
+dbr:Saving_My_Tomorrow
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Saving My Tomorrow"@en ;
+	dbo:company	dbr:HBO_Documentary_Films ;
+	dbo:genre	dbr:Documentary ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Scenes_from_a_Marriage_(American_miniseries)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Scenes from a Marriage (American miniseries)"@en ;
+	dbo:company	<http://dbpedia.org/resource/Endeavor_(company)> ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Baymax!>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Baymax!"@en ;
+	dbo:company	dbr:Walt_Disney_Animation_Studios ;
+	dbo:genre	dbr:Superhero_fiction , dbr:Television_comedy , dbr:Science_fiction ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Beat_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Beat (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/Warner_Bros.> , dbr:Pantaleon_Films ;
+	dbo:genre	dbr:Thriller_film ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Big_Little_Lies_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Big Little Lies (TV series)"@en ;
+	dbo:company	dbr:Blossom_Films , <http://dbpedia.org/resource/Hello_Sunshine_(company)> , dbr:Nathan_Ross ;
+	dbo:genre	dbr:Mystery_fiction , <http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Black_comedy ;
+	dbo:network	dbr:HBO .
+dbr:Big_Love
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Big Love"@en ;
+	dbo:company	dbr:HBO , dbr:Playtone ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Bigger_&_Blacker>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Bigger & Blacker"@en ;
+	dbo:company	<http://dbpedia.org/resource/3_Arts_Entertainment> ;
+	dbo:genre	dbr:Stand-up_comedy ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Blackout_(1985_film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Blackout (1985 film)"@en ;
+	dbo:company	dbr:HBO_Films ;
+	dbo:genre	dbr:Thriller_film ;
+	dbo:network	dbr:HBO .
+dbr:Boardwalk_Empire
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Boardwalk Empire"@en ;
+	dbo:company	dbr:HBO , dbr:Mark_Wahlberg ;
+	dbo:genre	dbr:Crime_fiction , dbr:Historical_drama , <http://dbpedia.org/resource/Serial_(radio_and_television)> ;
+	dbo:network	dbr:HBO .
+dbr:Bored_to_Death
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Bored to Death"@en ;
+	dbo:company	dbr:Dakota_Pictures , dbr:HBO ;
+	dbo:genre	dbr:Mystery_fiction , dbr:Detective_fiction , dbr:Neo-noir , dbr:Crime_fiction , dbr:Comedy ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Bosch_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Bosch (TV series)"@en ;
+	dbo:company	dbr:Amazon_Studios ;
+	dbo:genre	dbr:Detective_fiction , dbr:Drama ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Boundless_(2022_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Boundless (2022 TV series)"@en ;
+	dbo:company	dbr:Amazon_Prime_Video , dbr:RTVE ;
+	dbo:genre	dbr:Historical_fiction ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/De_brutas,_nada>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"De brutas, nada"@en ;
+	dbo:company	dbr:Sony_Pictures_Television ;
+	dbo:genre	dbr:Comedy_drama ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:De_viaje_con_los_Derbez
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"De viaje con los Derbez"@en ;
+	dbo:company	dbr:Lionsgate_Television ;
+	dbo:genre	dbr:Documentary_comedy ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Dead_Silence_(1997_film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Dead Silence (1997 film)"@en ;
+	dbo:company	dbr:Alliance_Films , dbr:Interscope_Communications ;
+	dbo:genre	dbr:Crime_film , dbr:Thriller_film ;
+	dbo:network	dbr:HBO .
+ns5:_The_Movie
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Deadwood: The Movie"@en ;
+	dbo:company	dbr:HBO_Films ;
+	dbo:genre	<http://dbpedia.org/resource/Western_(genre)> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Deadwood_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Deadwood (TV series)"@en ;
+	dbo:company	dbr:Home_Box_Office , dbr:Paramount_Television ;
+	dbo:genre	<http://dbpedia.org/resource/Western_(genre)> , dbr:Historical_drama , <http://dbpedia.org/resource/Serial_(radio_and_television)> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Desaparecidos_(Spanish_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Desaparecidos (Spanish TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/Mediaset_Espa\u00F1a> ;
+	dbo:genre	dbr:Police_procedural , dbr:Drama ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:Deutsch-les-Landes
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Deutsch-les-Landes"@en ;
+	dbo:company	dbr:Deutsche_Telekom , dbr:Amazon_Studios ;
+	dbo:genre	dbr:Comedy ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Homecoming_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Homecoming (TV series)"@en ;
+	dbo:company	dbr:Universal_Content_Productions , dbr:Gimlet_Media , dbr:Anonymous_Content , dbr:Amazon_Studios ;
+	dbo:genre	dbr:Psychological_thriller , <http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Homens%3F>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Homens?"@en ;
+	dbo:company	dbr:Porta_dos_Fundos ;
+	dbo:genre	dbr:Comedy ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Hunters_(2020_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Hunters (2020 TV series)"@en ;
+	dbo:company	dbr:Monkeypaw_Productions , dbr:Amazon_Studios , dbr:Sonar_Entertainment ;
+	dbo:genre	dbr:Crime_drama , dbr:Conspiracy_fiction , dbr:Historical_drama ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:List_of_Marvel_Cinematic_Universe_television_series
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"List of Marvel Cinematic Universe television series"@en ;
+	dbo:company	dbr:Marvel_Studios , dbr:Marvel_Television ;
+	dbo:genre	dbr:Superhero_fiction ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+dbr:Path_to_War
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Path to War"@en ;
+	dbo:company	dbr:HBO ;
+	dbo:genre	dbr:Biographical_film ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Patriot_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Patriot (TV series)"@en ;
+	dbo:company	dbr:Amazon_Studios ;
+	dbo:genre	dbr:Comedy_drama , dbr:Spy_fiction , dbr:Political_drama , dbr:Black_comedy ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Penny_on_M.A.R.S.>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Penny on M.A.R.S."@en ;
+	dbo:company	dbr:The_Walt_Disney_Company_Italy ;
+	dbo:genre	dbr:Dramedy ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Peque\u00F1as_coincidencias>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Peque\u00F1as coincidencias"@en ;
+	dbo:company	dbr:Amazon_Prime_Video , dbr:Atresmedia ;
+	dbo:genre	dbr:Romantic_comedy ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Percy_Jackson_and_the_Olympians_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Percy Jackson and the Olympians (TV series)"@en ;
+	dbo:company	dbr:Gotham_Group , <http://dbpedia.org/resource/20th_Television> , dbr:Disney_Branded_Television ;
+	dbo:genre	dbr:Action_fiction , dbr:Fantasy_television ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Perry_Mason_(2020_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Perry Mason (2020 TV series)"@en ;
+	dbo:company	dbr:Team_Downey ;
+	dbo:genre	dbr:Detective_fiction , dbr:Crime_drama , dbr:Neo-noir , dbr:Legal_drama , dbr:Period_drama ;
+	dbo:network	dbr:HBO .
+dbr:Perversions_of_Science
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Perversions of Science"@en ;
+	dbo:company	dbr:EC_Comics , dbr:HBO ;
+	dbo:genre	dbr:Horror_fiction , dbr:Science_fiction ;
+	dbo:network	dbr:HBO .
+ns6:_The_Era_Of_Hip_Hop_Comedy
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Phat Tuesdays: The Era Of Hip Hop Comedy"@en ;
+	dbo:company	dbr:Original_Productions , dbr:Amazon_Studios , dbr:Grammnet_Productions ;
+	dbo:genre	dbr:Docuseries ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:Reunion_at_Fairborough
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Reunion at Fairborough"@en ;
+	dbo:company	dbr:Columbia_Pictures_Television , dbr:HBO_Pictures ;
+	dbo:genre	dbr:Romance_film , dbr:Drama_film ;
+	dbo:network	dbr:HBO .
+dbr:Umbre
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Umbre"@en ;
+	dbo:company	dbr:HBO_Europe ;
+	dbo:genre	dbr:Crime , dbr:Drama ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Undone_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Undone (TV series)"@en ;
+	dbo:company	dbr:The_Tornante_Company , dbr:Amazon_Studios ;
+	dbo:genre	dbr:Mystery_fiction , dbr:Psychological_drama , dbr:Comedy_drama , dbr:Fantasy , dbr:Adult_animation ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Upload_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Upload (TV series)"@en ;
+	dbo:company	dbr:Deedle-Dee_Productions , <http://dbpedia.org/resource/3_Arts_Entertainment> , dbr:Amazon_Studios ;
+	dbo:genre	dbr:Satire , dbr:Comedy-drama , dbr:Science_fiction ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Utopia_(2020_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Utopia (2020 TV series)"@en ;
+	dbo:company	dbr:Endemol_Shine_North_America , dbr:Amazon_Studios , <http://dbpedia.org/resource/Kudos_(production_company)> ;
+	dbo:genre	dbr:Science_fiction , dbr:Black_comedy , dbr:Drama_film ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Vikings_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Vikings (TV series)"@en ;
+	dbo:company	dbr:Corus_Entertainment , dbr:MGM_Television , dbr:Shaw_Media ;
+	dbo:genre	dbr:Military_fiction , dbr:Action_fiction , dbr:Historical_drama ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Dead_Ringers_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Dead Ringers (TV series)"@en ;
+	dbo:company	dbr:Morgan_Creek_Entertainment , dbr:Annapurna_Pictures , dbr:Amazon_Studios ;
+	dbo:genre	dbr:Psychological_thriller , <http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/100_Foot_Wave>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"100 Foot Wave"@en ;
+	dbo:company	dbr:Cinetic_Media , dbr:Topic_Studios , <http://www.amplifypics.com> ;
+	dbo:genre	dbr:Television_documentary ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/101_Dalmatian_Street>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"101 Dalmatian Street"@en ;
+	dbo:company	dbr:Passion_Pictures , dbr:Atomic_Cartoons ;
+	dbo:genre	dbr:Comedy ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+dbr:Comrade_Detective
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Comrade Detective"@en ;
+	dbo:company	dbr:A24 , dbr:Amazon_Studios ;
+	dbo:genre	dbr:Buddy_cop , dbr:Historical_fiction ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Condominium_(film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Condominium (film)"@en ;
+	dbo:company	dbr:Universal_Television ;
+	dbo:genre	dbr:Action_film , <http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Cortes_(miniseries)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Cortes (miniseries)"@en ;
+	dbo:company	dbr:Amblin_Television ;
+	dbo:genre	dbr:Historical_period_drama ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Cosmic_Love_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Cosmic Love (TV series)"@en ;
+	dbo:company	dbr:Amazon_Studios , dbr:Hudsun_Media ;
+	dbo:genre	dbr:Reality_television ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:Countdown_to_Looking_Glass
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Countdown to Looking Glass"@en ;
+	dbo:company	dbr:HBO ;
+	dbo:genre	dbr:Docufiction ;
+	dbo:network	dbr:HBO .
+dbr:Criminal_Minds
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Criminal Minds"@en ;
+	dbo:company	dbr:Entertainment_One , dbr:CBS_Studios , dbr:ABC_Signature ;
+	dbo:genre	dbr:Mystery_film , dbr:Horror_film , dbr:Police_procedural , dbr:Dramatic_programming , <http://dbpedia.org/resource/Thriller_(genre)> ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+dbr:Crisis_in_Six_Scenes
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Crisis in Six Scenes"@en ;
+	dbo:company	dbr:Amazon_Studios ;
+	dbo:genre	dbr:Comedy ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Run_(American_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Run (American TV series)"@en ;
+	dbo:company	dbr:Entertainment_One ;
+	dbo:genre	dbr:Comedy_thriller ;
+	dbo:network	dbr:HBO .
+dbr:Sally4Ever
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Sally4Ever"@en ;
+	dbo:company	dbr:Julia_Davis ;
+	dbo:genre	dbr:Television_comedy ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Citadel_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Citadel (TV series)"@en ;
+	dbo:company	dbr:AGBO , dbr:Amazon_Studios ;
+	dbo:genre	dbr:Sci-fi , dbr:Spy_fiction , <http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Techno-thriller ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Clifford_the_Big_Red_Dog_(2019_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Clifford the Big Red Dog (2019 TV series)"@en ;
+	dbo:company	dbr:Scholastic_Corporation , dbr:Brown_Bag_Films , <http://dbpedia.org/resource/9_Story_Media_Group> , dbr:Amazon_Studios , dbr:PBS_Kids ;
+	dbo:genre	dbr:Music_genre , dbr:Slice_of_life , dbr:Comedy , dbr:Educational ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/El_Cid_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"El Cid (TV series)"@en ;
+	dbo:company	dbr:Amazon_Studios ;
+	dbo:genre	dbr:Action_film , <http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Historical_film ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/El_pueblo_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"El pueblo (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/Mediaset_Espa\u00F1a> ;
+	dbo:genre	dbr:Comedy ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Entourage_(American_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Entourage (American TV series)"@en ;
+	dbo:company	dbr:HBO ;
+	dbo:genre	dbr:Comedy_drama ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/From_the_Earth_to_the_Moon_(miniseries)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"From the Earth to the Moon (miniseries)"@en ;
+	dbo:company	dbr:Imagine_Television ;
+	dbo:genre	dbr:Docudrama ;
+	dbo:network	dbr:HBO .
+dbr:Gary_and_His_Demons
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Gary and His Demons"@en ;
+	dbo:company	dbr:Mondo_Media , dbr:Blue_Ant_Media , <http://dbpedia.org/resource/Look_Mom!_Productions> ;
+	dbo:genre	dbr:Comedy , dbr:Adult_animation ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:Gen_V
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Gen V"@en ;
+	dbo:company	dbr:Amazon_Studios , dbr:Point_Grey_Pictures , dbr:Sony_Pictures_Television_Studios , dbr:Original_Film ;
+	dbo:genre	dbr:Superhero , dbr:Black_comedy , dbr:Teen_drama ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Generation_Kill_(miniseries)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Generation Kill (miniseries)"@en ;
+	dbo:company	dbr:Company_Pictures ;
+	dbo:genre	dbr:War_film ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Genius_(American_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Genius (American TV series)"@en ;
+	dbo:company	ns7:Screen_Gems , dbr:MWM_Studios , dbr:Warner_Music_Group , <http://dbpedia.org/resource/20th_Television> , dbr:Imagine_Television ;
+	dbo:genre	dbr:Anthology_series , dbr:Docudrama ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Good_Omens_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Good Omens (TV series)"@en ;
+	dbo:company	dbr:BBC_Studios , dbr:Amazon_Studios ;
+	dbo:genre	dbr:Fantasy_comedy ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:Good_Rivals
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Good Rivals"@en ;
+	dbo:company	dbr:Skydance_Sports , dbr:Sports_on_Amazon_Prime_Video , dbr:Meadowlark_Media ;
+	dbo:genre	dbr:Documentary_film ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:Gorilla_and_the_Bird
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Gorilla and the Bird"@en ;
+	dbo:company	<http://dbpedia.org/resource/Big_Beach_(company)> ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Modern_Love_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Modern Love (TV series)"@en ;
+	dbo:company	dbr:Amazon_Studios ;
+	dbo:genre	dbr:Anthology_series , dbr:Romantic_comedy ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:Monsters_at_Work
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Monsters at Work"@en ;
+	dbo:company	dbr:Disney_Television_Animation ;
+	dbo:genre	dbr:Comedy , dbr:Fantasy ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Moon_Knight_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Moon Knight (TV series)"@en ;
+	dbo:company	dbr:Marvel_Studios ;
+	dbo:genre	dbr:Action-adventure_fiction , dbr:Psychological_horror , dbr:Superhero_fiction , dbr:Fantasy_television ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Ms._Marvel_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Ms. Marvel (TV series)"@en ;
+	dbo:company	dbr:Marvel_Studios ;
+	dbo:genre	dbr:Action-adventure_fiction , dbr:Coming_of_age_television , dbr:Superhero_fiction , dbr:Television_comedy ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+dbr:Muppets_Now
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Muppets Now"@en ;
+	dbo:company	dbr:The_Muppets_Studio ;
+	dbo:genre	dbr:Puppetry , dbr:Improvisational_theatre ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+dbr:My_House_in_Umbria
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"My House in Umbria"@en ;
+	dbo:company	dbr:HBO_Films ;
+	dbo:genre	dbr:Romance_film , dbr:Mystery_film , <http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Thriller_film ;
+	dbo:network	dbr:HBO .
+dbr:NFL_on_Prime_Video
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"NFL on Prime Video"@en ;
+	dbo:company	dbr:Amazon_Prime_Video , dbr:National_Football_League ;
+	dbo:genre	dbr:National_Football_League_on_television ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/NYC_Epicenters_9/11\u21922021\u00BD>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"NYC Epicenters 9/11\u21922021\u00BD"@en ;
+	dbo:company	<http://dbpedia.org/resource/40_Acres_and_a_Mule_Filmworks> , dbr:HBO_Films ;
+	dbo:genre	dbr:Television_documentary ;
+	dbo:network	dbr:HBO .
+dbr:The_Larry_Sanders_Show
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Larry Sanders Show"@en ;
+	dbo:company	dbr:Columbia_Pictures_Television , dbr:Brillstein_Entertainment_Partners , dbr:HBO ;
+	dbo:genre	dbr:Satire , dbr:Sitcom ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Last_Tycoon_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Last Tycoon (TV series)"@en ;
+	dbo:company	dbr:TriStar_Television , dbr:Amazon_Studios ;
+	dbo:genre	dbr:Drama_film ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/The_Leftovers_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Leftovers (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/Warner_Bros._Television> , dbr:HBO_Original_Programming ;
+	dbo:genre	dbr:Mystery_fiction , dbr:Psychological_thriller , dbr:Magical_realism , dbr:Supernatural_fiction , dbr:Drama , dbr:Philosophical_fiction ;
+	dbo:network	dbr:HBO .
+dbr:The_Legend_of_Vox_Machina
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Legend of Vox Machina"@en ;
+	dbo:company	dbr:Critical_Role_Productions , <http://dbpedia.org/resource/Titmouse,_Inc.> , dbr:Amazon_Studios ;
+	dbo:genre	dbr:Comedy_drama , dbr:Action_fiction , dbr:Fantasy_television ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:The_Lego_Star_Wars_Holiday_Special
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Lego Star Wars Holiday Special"@en ;
+	dbo:company	dbr:The_Lego_Group , dbr:Lucasfilm_Animation , dbr:Atomic_Cartoons ;
+	dbo:genre	dbr:Animation , dbr:Space_opera ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+dbr:The_Little_Lulu_Show
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Little Lulu Show"@en ;
+	dbo:company	dbr:Cookie_Jar_Group , dbr:Golden_Book_Video , dbr:TV-Loonland_AG ;
+	dbo:genre	dbr:Comedy ;
+	dbo:network	dbr:HBO .
+ns8:_The_Rings_of_Power
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Lord of the Rings: The Rings of Power"@en ;
+	dbo:company	dbr:Amazon_Studios , dbr:New_Line_Cinema ;
+	dbo:genre	dbr:Action_fiction , <http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Adventure_fiction , dbr:Fantasy_television ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:The_Mandalorian
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Mandalorian"@en ;
+	dbo:company	dbr:Lucasfilm , dbr:Golem_Creations , dbr:Fairview_Entertainment ;
+	dbo:genre	dbr:Adventure_fiction , dbr:Space_western ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/The_Marvelous_Mrs._Maisel>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Marvelous Mrs. Maisel"@en ;
+	dbo:company	dbr:Amy_Sherman-Palladino , dbr:Amazon_Studios ;
+	dbo:genre	dbr:Comedy_drama , dbr:Historical_drama ;
+	dbo:network	dbr:Amazon_Prime_Video .
+ns9:_Game_Changers
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Mighty Ducks: Game Changers"@en ;
+	dbo:company	dbr:Brillstein_Entertainment_Partners , dbr:ABC_Signature ;
+	dbo:genre	dbr:Sports_drama ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+dbr:The_Muppets_Mayhem
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Muppets Mayhem"@en ;
+	dbo:company	dbr:The_Muppets_Studio , dbr:ABC_Signature ;
+	dbo:genre	dbr:Musical_theatre , dbr:Comedy ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/The_Mysterious_Benedict_Society_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Mysterious Benedict Society (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/20th_Television> , dbr:Halcyon_Studios , dbr:Todd_Slavkin_and_Darren_Swimmer ;
+	dbo:genre	dbr:Mystery_fiction , dbr:Adventure_fiction , dbr:Family_film ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+dbr:The_Nevers
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Nevers"@en ;
+	dbo:company	dbr:Mutant_Enemy_Productions , dbr:HBO_Entertainment ;
+	dbo:genre	dbr:Drama , dbr:Historical_fiction , dbr:Science_fiction , dbr:Steampunk ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Normal_Heart_(film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Normal Heart (film)"@en ;
+	dbo:company	dbr:Blumhouse_Productions , <http://dbpedia.org/resource/Ryan_Murphy_(writer)> , dbr:HBO_Films , <http://dbpedia.org/resource/20th_Century_Fox_Television> , dbr:Plan_B_Entertainment ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_One_That_Got_Away_(American_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The One That Got Away (American TV series)"@en ;
+	dbo:company	dbr:Fulwell_73 , dbr:Amazon_Studios ;
+	dbo:genre	dbr:Reality_television ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/The_Outlaws_(2021_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Outlaws (2021 TV series)"@en ;
+	dbo:company	dbr:Big_Talk_Productions ;
+	dbo:genre	dbr:Crime_drama , <http://dbpedia.org/resource/Thriller_(genre)> , dbr:Dark_comedy ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/The_Outsider_(miniseries)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Outsider (miniseries)"@en ;
+	dbo:company	<http://dbpedia.org/resource/MRC_(company)> , dbr:Aggregate_Films , dbr:Temple_Hill_Entertainment ;
+	dbo:genre	dbr:Mystery_film , dbr:Horror_film , dbr:Crime_drama ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Pacific_(miniseries)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Pacific (miniseries)"@en ;
+	dbo:company	dbr:DreamWorks_Television , dbr:Playtone ;
+	dbo:genre	dbr:War_film ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Pack_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Pack (TV series)"@en ;
+	dbo:company	dbr:Amazon_Studios , dbr:Renegade_83 ;
+	dbo:genre	dbr:Television_documentary , dbr:Adventure , dbr:Reality_competition ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/The_Peripheral_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Peripheral (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/Warner_Bros._Television> , dbr:Amazon_Studios ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Science_fiction , <http://dbpedia.org/resource/Thriller_(genre)> ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/The_Plot_Against_America_(miniseries)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Plot Against America (miniseries)"@en ;
+	dbo:company	ns10:Kirschenbaum_Films , dbr:Annapurna_Pictures ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Alternate_history ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Ricky_Gervais_Show_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Ricky Gervais Show (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/MRC_(company)> , dbr:WildBrain_Entertainment , dbr:HBO ;
+	dbo:genre	dbr:Comedy , dbr:Podcast , dbr:Cartoon_series ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Right_Stuff_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Right Stuff (TV series)"@en ;
+	dbo:company	dbr:Appian_Way_Productions , <http://dbpedia.org/resource/Warner_Bros._Television_Studios> , dbr:National_Geographic_Partners ;
+	dbo:genre	dbr:Historical_drama ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+dbr:The_Righteous_Gemstones
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Righteous Gemstones"@en ;
+	dbo:company	dbr:HBO ;
+	dbo:genre	dbr:Crime_film , dbr:Comedy_film ;
+	dbo:network	dbr:HBO .
+dbr:The_Romanoffs
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Romanoffs"@en ;
+	dbo:company	dbr:Amazon_Studios ;
+	dbo:genre	dbr:Anthology_series , <http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:The_Santa_Clauses
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Santa Clauses"@en ;
+	dbo:company	<http://dbpedia.org/resource/20th_Television> ;
+	dbo:genre	dbr:Television_comedy , dbr:Christmas_by_medium ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+dbr:The_Second_Civil_War
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Second Civil War"@en ;
+	dbo:company	dbr:HBO_Pictures , dbr:Baltimore_Pictures ;
+	dbo:genre	dbr:Political_satire , dbr:Black_comedy ;
+	dbo:network	dbr:HBO .
+dbr:The_Sopranos
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Sopranos"@en ;
+	dbo:company	dbr:Brad_Grey , dbr:David_Chase , dbr:HBO ;
+	dbo:genre	dbr:Crime_drama , dbr:Serial_drama ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_StoryTeller_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The StoryTeller (TV series)"@en ;
+	dbo:company	dbr:Television_South , dbr:Jim_Henson_Productions ;
+	dbo:genre	<http://dbpedia.org/resource/Children\u0027s_film> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Summer_I_Turned_Pretty_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Summer I Turned Pretty (TV series)"@en ;
+	dbo:company	dbr:Amazon_Studios ;
+	dbo:genre	dbr:Romance_film , dbr:Coming-of-age_story , <http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:The_Terminal_List
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Terminal List"@en ;
+	dbo:company	<http://dbpedia.org/resource/MRC_(company)> , dbr:Amazon_Studios ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> , <http://dbpedia.org/resource/Action_(genre)> , dbr:Conspiracy_thriller ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/The_Third_Day_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Third Day (TV series)"@en ;
+	dbo:company	dbr:Scott_Free_Productions , dbr:Punchdrunk_International , dbr:Sky_Studios , dbr:Plan_B_Entertainment ;
+	dbo:genre	dbr:Mystery_film , dbr:Horror_film , <http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Tick_(2016_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Tick (2016 TV series)"@en ;
+	dbo:company	dbr:Barry_Josephson , dbr:Amazon_Studios , dbr:Sony_Pictures_Television ;
+	dbo:genre	dbr:Comedy , dbr:Superhero_fiction , <http://dbpedia.org/resource/Action_(genre)> , dbr:Science_fiction , <http://dbpedia.org/resource/Adventure_(genre)> ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/The_Time_Traveler\u0027s_Wife_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Time Traveler's Wife (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/Warner_Bros._Television> , dbr:Hartswood_Films , dbr:New_Line_Cinema ;
+	dbo:genre	dbr:Romance_film , dbr:Science_fiction_on_television , <http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Underground_Railroad_(miniseries)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Underground Railroad (miniseries)"@en ;
+	dbo:company	dbr:Amazon_Studios , dbr:Plan_B_Entertainment ;
+	dbo:genre	dbr:Historical_fiction ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:The_Undoing
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Undoing"@en ;
+	dbo:company	dbr:Blossom_Films , <http://dbpedia.org/resource/Made_Up_Stories_(company)> ;
+	dbo:genre	dbr:Mystery_fiction , dbr:Psychological_thriller , <http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Vineyard_(Spanish_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Vineyard (Spanish TV series)"@en ;
+	dbo:company	dbr:Atresmedia ;
+	dbo:genre	dbr:Romantic_drama , dbr:Period_drama ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/The_Vow_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Vow (TV series)"@en ;
+	dbo:company	dbr:HBO_Documentary_Films ;
+	dbo:genre	dbr:Television_documentary ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Wheel_of_Time_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Wheel of Time (TV series)"@en ;
+	dbo:company	dbr:Amazon_Studios , dbr:Sony_Pictures_Television ;
+	dbo:genre	dbr:Action_fiction , <http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Adventure_fiction , dbr:Fantasy_television ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:The_White_House_Plumbers
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The White House Plumbers"@en ;
+	dbo:company	<http://dbpedia.org/resource/The_District_(production_company)> ;
+	dbo:genre	dbr:Political_drama ;
+	dbo:network	dbr:HBO .
+dbr:The_White_Lotus
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The White Lotus"@en ;
+	dbo:company	<http://dbpedia.org/resource/The_District_(production_company)> ;
+	dbo:genre	dbr:Anthology_series , dbr:Comedy_drama , <http://dbpedia.org/resource/Satire_(film_and_television)> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Widow_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Widow (TV series)"@en ;
+	dbo:company	dbr:Two_Brothers_Pictures ;
+	dbo:genre	dbr:Action_film , dbr:Drama , dbr:Suspense ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/The_Wilds_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Wilds (TV series)"@en ;
+	dbo:company	dbr:ABC_Signature , dbr:Amazon_Studios ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:The_Wire
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Wire"@en ;
+	dbo:company	dbr:HBO ;
+	dbo:genre	dbr:Crime_drama , dbr:Tragedy , dbr:Serial_drama ;
+	dbo:network	dbr:HBO .
+dbr:The_Wonderful_World_of_Mickey_Mouse
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Wonderful World of Mickey Mouse"@en ;
+	dbo:company	dbr:Disney_Television_Animation ;
+	dbo:genre	dbr:Animated_series , dbr:Comedy , dbr:Slapstick ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Them_(2021_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Them (2021 TV series)"@en ;
+	dbo:company	dbr:Vertigo_Entertainment , dbr:Amazon_Studios , dbr:Sony_Pictures_Television ;
+	dbo:genre	dbr:Anthology_series , dbr:Horror_fiction , <http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:Third_Degree_Burn
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Third Degree Burn"@en ;
+	dbo:company	dbr:MTM_Enterprises , dbr:Paramount_Pictures , dbr:HBO_Pictures ;
+	dbo:genre	dbr:Crime ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Andor_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Andor (TV series)"@en ;
+	dbo:company	dbr:Lucasfilm ;
+	dbo:genre	dbr:Science_fiction_on_television , dbr:Action-adventure_fiction , <http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Political_film ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Animals_(American_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Animals (American TV series)"@en ;
+	dbo:company	dbr:HBO , dbr:Duplass_Brothers_Television ;
+	dbo:genre	dbr:Comedy ;
+	dbo:network	dbr:HBO .
+ns11:_Summer_Vacation
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Lego Star Wars: Summer Vacation"@en ;
+	dbo:company	dbr:The_Lego_Group , dbr:Lucasfilm_Animation , dbr:Atomic_Cartoons ;
+	dbo:genre	dbr:Animation , dbr:Space_opera ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Lip_Service_(1988_film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Lip Service (1988 film)"@en ;
+	dbo:company	dbr:HBO ;
+	dbo:genre	dbr:Comedy_film ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Lizzo\u0027s_Watch_Out_for_the_Big_Grrrls>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Lizzo's Watch Out for the Big Grrrls"@en ;
+	dbo:company	ns12:Murray_Productions , dbr:Amazon_Studios ;
+	dbo:genre	dbr:Reality_television ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Loki_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Loki (TV series)"@en ;
+	dbo:company	dbr:Marvel_Studios ;
+	dbo:genre	dbr:Science_fiction_on_television , dbr:Action-adventure_fiction , dbr:Superhero_fiction , dbr:Fantasy_television , dbr:Procedural_drama , dbr:Crime_thriller ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Lore_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Lore (TV series)"@en ;
+	dbo:company	dbr:Amazon_Studios , dbr:Valhalla_Entertainment ;
+	dbo:genre	dbr:Mystery_fiction , dbr:Horror_fiction , dbr:Drama ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:Los_Espookys
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Los Espookys"@en ;
+	dbo:company	dbr:Broadway_Video , dbr:HBO_Entertainment ;
+	dbo:genre	dbr:Television_comedy ;
+	dbo:network	dbr:HBO .
+dbr:Los_Lopeggs
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Los Lopeggs"@en ;
+	dbo:company	dbr:Huevocartoon ;
+	dbo:genre	dbr:Animated_sitcom , dbr:Slice_of_life , dbr:Comedy ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Love,_Victor>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Love, Victor"@en ;
+	dbo:company	<http://dbpedia.org/resource/20th_Television> , dbr:Temple_Hill_Entertainment ;
+	dbo:genre	dbr:Romance_film , dbr:Comedy_drama , dbr:Teen_drama ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Lovecraft_Country_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Lovecraft Country (TV series)"@en ;
+	dbo:company	dbr:Monkeypaw_Productions , dbr:Bad_Robot_Productions , <http://dbpedia.org/resource/Warner_Bros._Television_Studios> ;
+	dbo:genre	dbr:Science_fiction_on_television , dbr:Period_drama , dbr:Supernatural_horror ;
+	dbo:network	dbr:HBO .
+dbr:LuLaRich
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"LuLaRich"@en ;
+	dbo:company	dbr:Amazon_Studios ;
+	dbo:genre	dbr:Television_documentary ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Luck_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Luck (TV series)"@en ;
+	dbo:company	dbr:HBO ;
+	dbo:genre	dbr:Drama ;
+	dbo:network	dbr:HBO .
+dbr:Lucky_Louie
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Lucky Louie"@en ;
+	dbo:company	<http://dbpedia.org/resource/3_Arts_Entertainment> , dbr:HBO , dbr:HBO_Independent_Productions ;
+	dbo:genre	dbr:Slice_of_life , dbr:Sitcom ;
+	dbo:network	dbr:HBO .
+dbr:Luxe_Listings_Sydney
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Luxe Listings Sydney"@en ;
+	dbo:company	dbr:Eureka_Productions ;
+	dbo:genre	dbr:Reality_television ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Made_in_Heaven_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Made in Heaven (TV series)"@en ;
+	dbo:company	dbr:Tiger_Baby_Films , dbr:Excel_Entertainment ;
+	dbo:genre	dbr:Drama , dbr:Romance_fiction ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Madeline_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Madeline (TV series)"@en ;
+	dbo:company	dbr:DIC_Entertainment , dbr:Cinar ;
+	dbo:genre	<http://dbpedia.org/resource/Children\u0027s_television_series> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Madres._Amor_y_vida>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Madres. Amor y vida"@en ;
+	dbo:company	<http://dbpedia.org/resource/Mediaset_Espa\u00F1a> ;
+	dbo:genre	dbr:Medical_drama , dbr:Family_drama ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Making_the_Cut_(2020_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Making the Cut (2020 TV series)"@en ;
+	dbo:company	dbr:Amazon_Studios ;
+	dbo:genre	dbr:Reality_competition ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Short_Program_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Short Program (TV series)"@en ;
+	dbo:company	dbr:Lapone_Entertainment ;
+	dbo:genre	dbr:Romance_film , dbr:Slice_of_life , <http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:Amazon_Prime_Video .
+ns13:_KPVM_Pahrump
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Small Town News: KPVM Pahrump"@en ;
+	dbo:company	<http://dbpedia.org/resource/World_of_Wonder_(company)> , dbr:HBO_Documentary_Films ;
+	dbo:genre	dbr:Television_documentary ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Stalin_(1992_film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Stalin (1992 film)"@en ;
+	dbo:company	dbr:HBO_Pictures ;
+	dbo:genre	dbr:Political_drama , dbr:Political_thriller , dbr:Biographical_drama ;
+	dbo:network	dbr:HBO .
+ns14:_Skeleton_Crew
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Star Wars: Skeleton Crew"@en ;
+	dbo:company	dbr:Lucasfilm ;
+	dbo:genre	dbr:Coming_of_age , dbr:Science_fiction , dbr:Adventure ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+ns14:_The_Bad_Batch
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Star Wars: The Bad Batch"@en ;
+	dbo:company	dbr:Lucasfilm , dbr:Lucasfilm_Animation ;
+	dbo:genre	dbr:Action_fiction , dbr:Adventure_fiction , dbr:Science_fiction ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Star_Wars:_The_Clone_Wars_(2008_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Star Wars: The Clone Wars (2008 TV series)"@en ;
+	dbo:company	dbr:Lucasfilm , dbr:Lucasfilm_Animation ;
+	dbo:genre	dbr:Military_science_fiction , dbr:Action_fiction , dbr:Adventure_fiction , dbr:Fantasy_fiction ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+ns14:_Visions
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Star Wars: Visions"@en ;
+	dbo:company	dbr:Lucasfilm ;
+	dbo:genre	dbr:Anthology , <http://dbpedia.org/resource/Action_(genre)> , dbr:Science_fiction , dbr:Space_opera ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+dbr:Stranger_Inside
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Stranger Inside"@en ;
+	dbo:company	dbr:HBO_Films ;
+	dbo:genre	dbr:Crime_film , <http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:HBO .
+dbr:Strapped
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Strapped"@en ;
+	dbo:company	dbr:HBO_Pictures ;
+	dbo:genre	dbr:Crime_film ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Stuart_Little_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Stuart Little (TV series)"@en ;
+	dbo:company	dbr:Douglas_Wick , dbr:Adelaide_Productions , dbr:Sony_Pictures_Television ;
+	dbo:genre	dbr:Family ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Succession_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Succession (TV series)"@en ;
+	dbo:company	dbr:Hyperobject_Industries , dbr:Gary_Sanchez_Productions ;
+	dbo:genre	dbr:Comedy_drama , dbr:Tragicomedy , <http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Black_comedy , <http://dbpedia.org/resource/Satire_(film_and_television)> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Band_of_Brothers_(miniseries)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Band of Brothers (miniseries)"@en ;
+	dbo:company	dbr:BBC , dbr:DreamWorks_Television , dbr:HBO , dbr:Playtone ;
+	dbo:genre	dbr:War_film ;
+	dbo:network	dbr:HBO .
+dbr:Three_Pines
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Three Pines"@en ;
+	dbo:company	dbr:Muse_Entertainment , dbr:Left_Bank_Pictures , dbr:Amazon_Studios , dbr:Sony_Pictures_Television ;
+	dbo:genre	dbr:Mystery_fiction , dbr:Detective_fiction , dbr:Crime_drama ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:Thursday_Night_Football
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Thursday Night Football"@en ;
+	dbo:company	dbr:Amazon_Prime_Video , dbr:National_Football_League ;
+	dbo:genre	dbr:National_Football_League_on_television ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Tiger_(miniseries)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Tiger (miniseries)"@en ;
+	dbo:company	dbr:HBO_Sports ;
+	dbo:genre	dbr:Television_documentary ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Todd_McFarlane\u0027s_Spawn>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Todd McFarlane's Spawn"@en ;
+	dbo:company	<http://dbpedia.org/resource/Madhouse_(company)> ;
+	dbo:genre	dbr:Crime_film , dbr:Superhero_fiction , dbr:Action_film , <http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Science_fantasy , dbr:Supernatural_horror ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Turner_&_Hooch_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Turner & Hooch (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/20th_Television> , dbr:Wonderland_Sound_and_Vision ;
+	dbo:genre	dbr:Police_procedural , dbr:Buddy_cop , dbr:Action_film ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+dbr:WandaVision
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"WandaVision"@en ;
+	dbo:company	dbr:Marvel_Studios ;
+	dbo:genre	dbr:Romance_film , dbr:Mystery_fiction , dbr:Superhero_fiction , <http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Sitcom ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Warm_Springs_(film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Warm Springs (film)"@en ;
+	dbo:company	dbr:The_Mark_Gordon_Company , dbr:HBO_Films ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Biographical_film ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Watchmen_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Watchmen (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/Warner_Bros._Television> , dbr:DC_Comics , dbr:Paramount_Television_Studios ;
+	dbo:genre	dbr:Superhero_fiction , dbr:Action_fiction , <http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Utopian_and_dystopian_fiction ;
+	dbo:network	dbr:HBO .
+dbr:We_Are_Who_We_Are
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"We Are Who We Are"@en ;
+	dbo:company	dbr:Sky_Studios ;
+	dbo:genre	dbr:Drama ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Weird_but_True!>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Weird but True!"@en ;
+	dbo:company	dbr:Steve_Rotfeld_Productions , dbr:National_Geographic ;
+	dbo:genre	dbr:Educational ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Werewolf_by_Night_(TV_special)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Werewolf by Night (TV special)"@en ;
+	dbo:company	dbr:Marvel_Studios ;
+	dbo:genre	dbr:Action-adventure_fiction , dbr:Horror_fiction , dbr:Superhero_fiction , dbr:Fantasy_television ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Westworld_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Westworld (TV series)"@en ;
+	dbo:company	dbr:Bad_Robot_Productions , <http://dbpedia.org/resource/Warner_Bros._Television> ;
+	dbo:genre	<http://dbpedia.org/resource/Western_(genre)> , <http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Science_fiction , dbr:Utopian_and_dystopian_fiction ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/What_If...%3F_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"What If...? (TV series)"@en ;
+	dbo:company	dbr:Marvel_Studios ;
+	dbo:genre	dbr:Science_fiction_on_television , dbr:Anthology_series , dbr:Action-adventure_fiction , dbr:Superhero_fiction ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Willow_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Willow (TV series)"@en ;
+	dbo:company	dbr:Lucasfilm , dbr:MGM_Television , dbr:Imagine_Entertainment ;
+	dbo:genre	dbr:Fantasy_television ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+ns15:_The_Rise_of_the_Lakers_Dynasty
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Winning Time: The Rise of the Lakers Dynasty"@en ;
+	dbo:company	dbr:Hyperobject_Industries ;
+	dbo:genre	dbr:Comedy-drama , dbr:Sports_drama , dbr:Biographical_drama ;
+	dbo:network	dbr:HBO .
+dbr:A_Black_Lady_Sketch_Show
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"A Black Lady Sketch Show"@en ;
+	dbo:company	dbr:Hoorae_Media , <http://dbpedia.org/resource/3_Arts_Entertainment> , dbr:Jax_Media ;
+	dbo:genre	dbr:Sketch_comedy ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/A_Bright_Shining_Lie_(film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"A Bright Shining Lie (film)"@en ;
+	dbo:company	dbr:HBO_Pictures ;
+	dbo:genre	dbr:War_drama ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/A_League_of_Their_Own_(2022_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"A League of Their Own (2022 TV series)"@en ;
+	dbo:company	dbr:Amazon_Studios , dbr:Sony_Pictures_Television_Studios ;
+	dbo:genre	dbr:Comedy_drama , dbr:Period_drama , dbr:Sports_film ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Above_Suspicion_(1995_film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Above Suspicion (1995 film)"@en ;
+	dbo:company	dbr:Rysher_Entertainment ;
+	dbo:genre	dbr:Thriller_film ;
+	dbo:network	dbr:HBO .
+dbr:After_the_Thrones
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"After the Thrones"@en ;
+	dbo:company	dbr:HBO ;
+	dbo:genre	dbr:Aftershow ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Ahsoka_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Ahsoka (TV series)"@en ;
+	dbo:company	dbr:Lucasfilm ;
+	dbo:genre	dbr:Science_fiction_on_television , <http://dbpedia.org/resource/Drama_(film_and_television)> , <http://dbpedia.org/resource/Action_(genre)> ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Alex_Rider_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Alex Rider (TV series)"@en ;
+	dbo:company	dbr:Sony_Pictures_Television ;
+	dbo:genre	dbr:Spy_fiction , dbr:Action_fiction ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Allen_v._Farrow>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Allen v. Farrow"@en ;
+	dbo:company	dbr:Artemis_Rising_Foundation , dbr:Impact_Partners , dbr:HBO_Documentary_Films ;
+	dbo:genre	dbr:Television_documentary ;
+	dbo:network	dbr:HBO .
+dbr:Always_Jane
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Always Jane"@en ;
+	dbo:company	dbr:Amazon_Studios ;
+	dbo:genre	dbr:Docuseries ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/American_Born_Chinese_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"American Born Chinese (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/20th_Television> ;
+	dbo:genre	dbr:Action-comedy_film ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Ana_(2020_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Ana (2020 TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/Argos_Comunicaci\u00F3n> ;
+	dbo:genre	dbr:Comedy_drama ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/And_the_Band_Played_On_(film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"And the Band Played On (film)"@en ;
+	dbo:company	dbr:Spelling_Television , dbr:HBO_Pictures ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:HBO .
+dbr:Curb_Your_Enthusiasm
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Curb Your Enthusiasm"@en ;
+	dbo:company	dbr:HBO ;
+	dbo:genre	dbr:Cringe_comedy , dbr:Improvisational_theatre , dbr:Dark_comedy ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Dancing_with_the_Stars_(American_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Dancing with the Stars (American TV series)"@en ;
+	dbo:company	dbr:BBC_Studios ;
+	dbo:genre	dbr:Reality_competition ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+dbr:Dug_Days
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Dug Days"@en ;
+	dbo:company	dbr:Pixar_Animation_Studios ;
+	dbo:genre	dbr:Slice_of_life , dbr:Comedy ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Echo_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Echo (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/20th_Television> , dbr:Marvel_Studios ;
+	dbo:genre	dbr:Crime_drama , dbr:Superhero_fiction , dbr:Action_fiction ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Edge_of_the_Earth_(miniseries)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Edge of the Earth (miniseries)"@en ;
+	dbo:company	dbr:Teton_Gravity_Research , dbr:HBO ;
+	dbo:genre	dbr:Documentary_film ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Esme_&_Roy>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Esme & Roy"@en ;
+	dbo:company	dbr:Nelvana , dbr:Sesame_Workshop ;
+	dbo:genre	dbr:Comedy_film , dbr:Fantasy_film , dbr:Preschool ;
+	dbo:network	dbr:HBO .
+dbr:Everybody_Loves_Natti
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Everybody Loves Natti"@en ;
+	dbo:company	dbr:Amazon_Studios ;
+	dbo:genre	dbr:Docuseries ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Fairfax_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Fairfax (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/Titmouse,_Inc.> , dbr:Amazon_Studios ;
+	dbo:genre	dbr:Television_comedy ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Fallout_(upcoming_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Fallout (upcoming TV series)"@en ;
+	dbo:company	dbr:Bethesda_Game_Studios , dbr:Bethesda_Softworks , dbr:Amazon_Studios ;
+	dbo:genre	dbr:Apocalyptic_and_post-apocalyptic_fiction , <http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Fatherland_(1994_film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Fatherland (1994 film)"@en ;
+	dbo:company	dbr:HBO_Pictures ;
+	dbo:genre	dbr:Alternate_history , dbr:Historical_drama ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Flack_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Flack (TV series)"@en ;
+	dbo:company	dbr:Hat_Trick_Productions ;
+	dbo:genre	dbr:Dramedy ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Flight_of_the_Conchords_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Flight of the Conchords (TV series)"@en ;
+	dbo:company	dbr:Dakota_Pictures ;
+	dbo:genre	dbr:Musical_theatre , dbr:Comedy ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Forever_(2018_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Forever (2018 TV series)"@en ;
+	dbo:company	dbr:Universal_Television , dbr:Brillstein_Entertainment_Partners , <http://dbpedia.org/resource/3_Arts_Entertainment> , dbr:Amazon_Studios ;
+	dbo:genre	dbr:Comedy_drama ;
+	dbo:network	dbr:Amazon_Prime_Video .
+ns16:_Hamptons
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Forever Summer: Hamptons"@en ;
+	dbo:company	dbr:Amazon_Studios ;
+	dbo:genre	dbr:Reality_television ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Night_Sky_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Night Sky (TV series)"@en ;
+	dbo:company	dbr:Amazon_Studios , dbr:Legendary_Television ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Science_fiction ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Normal_(2003_film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Normal (2003 film)"@en ;
+	dbo:company	dbr:HBO_Films ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Nuclear_Family_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Nuclear Family (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/Big_Beach_(company)> , dbr:Story_Syndicate , dbr:HBO_Films , dbr:Topic_Studios , dbr:Impact_Partners ;
+	dbo:genre	dbr:Television_documentary ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Our_Boys_(miniseries)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Our Boys (miniseries)"@en ;
+	dbo:company	dbr:Keshet_Media_Group ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Legal_Drama ;
+	dbo:network	dbr:HBO .
+dbr:Outer_Range
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Outer Range"@en ;
+	dbo:company	dbr:Amazon_Studios , dbr:Plan_B_Entertainment ;
+	dbo:genre	dbr:Mystery_film , <http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Science_fiction , <http://dbpedia.org/resource/Thriller_(genre)> , dbr:Neo-Western ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Oz_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Oz (TV series)"@en ;
+	dbo:company	dbr:Barry_Levinson , dbr:Viacom_Productions , dbr:Rysher_Entertainment , dbr:Tom_Fontana , dbr:HBO_Original_Programming ;
+	dbo:genre	dbr:Drama , <http://dbpedia.org/resource/Thriller_(genre)> ;
+	dbo:network	dbr:HBO .
+dbr:Painting_with_John
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Painting with John"@en ;
+	dbo:company	dbr:Hyperobject_Industries ;
+	dbo:genre	dbr:Television_comedy , dbr:Television_documentary ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Panchayat_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Panchayat (TV series)"@en ;
+	dbo:company	dbr:The_Viral_Fever ;
+	dbo:genre	dbr:Comedy_drama ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Panic_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Panic (TV series)"@en ;
+	dbo:company	ns10:Kirschenbaum_Films , dbr:Amazon_Studios ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Young_adult_fiction ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Paper_Girls_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Paper Girls (TV series)"@en ;
+	dbo:company	dbr:Amazon_Studios , dbr:Plan_B_Entertainment , dbr:Legendary_Television ;
+	dbo:genre	dbr:Science_fiction_on_television , <http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Parot_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Parot (TV series)"@en ;
+	dbo:company	dbr:ViacomCBS_Networks_International , dbr:RTVE ;
+	dbo:genre	<http://dbpedia.org/resource/Thriller_(genre)> , dbr:Police_drama ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Pastewka_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Pastewka (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/Brainpool_(company)> ;
+	dbo:genre	dbr:Dramedy , dbr:Television_comedy , dbr:Sitcom ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Hanna_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Hanna (TV series)"@en ;
+	dbo:company	dbr:Amazon_Studios , dbr:Focus_Features , dbr:Working_Title_Television , dbr:Tomorrow_Studios ;
+	dbo:genre	dbr:Action_film , <http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Hawkeye_(2021_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Hawkeye (2021 TV series)"@en ;
+	dbo:company	dbr:Marvel_Studios ;
+	dbo:genre	dbr:Action-adventure_fiction , dbr:Crime_fiction , dbr:Superhero_fiction , dbr:Buddy_comedy ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Here_and_Now_(2018_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Here and Now (2018 TV series)"@en ;
+	dbo:company	dbr:HBO ;
+	dbo:genre	dbr:Drama , dbr:Dark_comedy ;
+	dbo:network	dbr:HBO .
+dbr:Into_the_Homeland
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Into the Homeland"@en ;
+	dbo:company	dbr:HBO_Pictures ;
+	dbo:genre	dbr:Crime_drama ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Invincible_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Invincible (TV series)"@en ;
+	dbo:company	dbr:Skybound_Entertainment , dbr:Amazon_Studios , dbr:Point_Grey_Pictures ;
+	dbo:genre	dbr:Science_fiction_on_television , dbr:Superhero_fiction , <http://dbpedia.org/resource/Drama_(film_and_television)> , <http://dbpedia.org/resource/Action_(genre)> , <http://dbpedia.org/resource/Adventure_(genre)> ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/In\u00E9s_of_My_Soul_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"In\u00E9s of My Soul (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/Chilevisi\u00F3n> , dbr:RTVE ;
+	dbo:genre	dbr:Historical_drama ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Irma_Vep_(miniseries)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Irma Vep (miniseries)"@en ;
+	dbo:company	dbr:A24 ;
+	dbo:genre	dbr:Comedy_drama ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Ironheart_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Ironheart (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/20th_Television> , dbr:Marvel_Studios ;
+	dbo:genre	dbr:Science_fiction_on_television , dbr:Action-adventure_fiction , dbr:Superhero_fiction ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Jack_Ryan_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Jack Ryan (TV series)"@en ;
+	dbo:company	dbr:Skydance_Media , dbr:Amazon_Studios , dbr:Paramount_Television_Studios , dbr:Sunday_Night_Productions , dbr:Platinum_Dunes ;
+	dbo:genre	dbr:Action_fiction , <http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Political_thriller , dbr:Spy_thriller ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:Jean-Claude_Van_Johnson
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Jean-Claude Van Johnson"@en ;
+	dbo:company	dbr:Scott_Free_Productions , dbr:Amazon_Studios ;
+	dbo:genre	dbr:Comedy_drama , dbr:Action_comedy ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:Taking_Chance
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Taking Chance"@en ;
+	dbo:company	dbr:Motion_Picture_Corporation_of_America ;
+	dbo:genre	dbr:Historical_drama ;
+	dbo:network	dbr:HBO .
+dbr:Tales_from_the_Loop
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Tales from the Loop"@en ;
+	dbo:company	dbr:Amazon_Studios , dbr:Fox_21_Television_Studios ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Science_fiction ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Tales_of_the_Jedi_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Tales of the Jedi (TV series)"@en ;
+	dbo:company	dbr:Lucasfilm , dbr:Lucasfilm_Animation ;
+	dbo:genre	dbr:Anthology_series , dbr:Science_fiction ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+dbr:Tampa_Baes
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Tampa Baes"@en ;
+	dbo:company	dbr:Amazon_Studios ;
+	dbo:genre	dbr:Reality_television ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:Tell_Me_Your_Secrets
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Tell Me Your Secrets"@en ;
+	dbo:company	<http://dbpedia.org/resource/Made_Up_Stories_(company)> , dbr:Studio_T ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> , <http://dbpedia.org/resource/Thriller_(genre)> ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Temple_Grandin_(film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Temple Grandin (film)"@en ;
+	dbo:company	dbr:Emily_Gerson_Saines , dbr:Ruby_Films ;
+	dbo:genre	dbr:Biographical_drama ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Ten_Percent_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Ten Percent (TV series)"@en ;
+	dbo:company	dbr:Bron_Studios , dbr:Headline_Pictures , <http://dbpedia.org/resource/Amazon_(company)> ;
+	dbo:genre	dbr:Comedy_series ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/The_Acolyte_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Acolyte (TV series)"@en ;
+	dbo:company	dbr:Lucasfilm ;
+	dbo:genre	dbr:Science_fiction_on_television , dbr:Mystery_fiction , dbr:Crime_drama , dbr:Adventure_fiction ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/The_Adventures_of_Rocky_and_Bullwinkle_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Adventures of Rocky and Bullwinkle (TV series)"@en ;
+	dbo:company	dbr:DreamWorks_Animation_Television , dbr:Jay_Ward_Productions ;
+	dbo:genre	dbr:Comedy , dbr:Action_fiction , dbr:Slapstick ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/The_Adventures_of_Tintin_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Adventures of Tintin (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/Ellipse_Programm\u00E9> , dbr:Nelvana ;
+	dbo:genre	dbr:Mystery_fiction , dbr:Comedy_drama , dbr:Action_fiction , dbr:Adventure_film ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Affair_(1995_film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Affair (1995 film)"@en ;
+	dbo:company	dbr:HBO_Pictures ;
+	dbo:genre	dbr:Drama ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Baby_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Baby (TV series)"@en ;
+	dbo:company	dbr:Sky_Studios ;
+	dbo:genre	dbr:Comedy_horror ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Bay_(web_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Bay (web series)"@en ;
+	dbo:company	dbr:LANY_Entertainment ;
+	dbo:genre	dbr:Romance_film , <http://dbpedia.org/resource/Drama_(film_and_television)> , <http://dbpedia.org/resource/Thriller_(genre)> , dbr:Crime_Drama , dbr:Action-Adventure ;
+	dbo:network	dbr:Amazon_Prime_Video .
+ns17:_Las_Cumbres
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Boarding School: Las Cumbres"@en ;
+	dbo:company	dbr:Atresmedia ;
+	dbo:genre	dbr:Mystery_fiction , dbr:Teen_drama , <http://dbpedia.org/resource/Thriller_(genre)> ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:The_Book_of_Boba_Fett
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Book of Boba Fett"@en ;
+	dbo:company	dbr:Lucasfilm , dbr:Golem_Creations ;
+	dbo:genre	dbr:Space_Western , dbr:Action_fiction ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/The_Boys_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Boys (TV series)"@en ;
+	dbo:company	dbr:Amazon_Studios , dbr:Point_Grey_Pictures , dbr:Sony_Pictures_Television , dbr:Original_Film ;
+	dbo:genre	dbr:Superhero_fiction , <http://dbpedia.org/resource/Drama_(film_and_television)> , <http://dbpedia.org/resource/Action_(genre)> , dbr:Black_comedy , <http://dbpedia.org/resource/Satire_(film_and_television)> ;
+	dbo:network	dbr:Amazon_Prime_Video .
+ns18:_Diabolical
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Boys Presents: Diabolical"@en ;
+	dbo:company	<http://dbpedia.org/resource/Titmouse,_Inc.> , dbr:Amazon_Studios , dbr:Point_Grey_Pictures , dbr:Sony_Pictures_Television_Studios , dbr:Original_Film ;
+	dbo:genre	dbr:Anthology_series , dbr:Superhero_fiction , dbr:Black_comedy ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/The_Burning_Season_(1994_film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Burning Season (1994 film)"@en ;
+	dbo:company	dbr:HBO_Pictures ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:HBO .
+dbr:The_Cherokee_Kid
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Cherokee Kid"@en ;
+	dbo:company	dbr:HBO_Pictures ;
+	dbo:genre	<http://dbpedia.org/resource/Western_(genre)> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Comeback_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Comeback (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/Warner_Bros._Television> ;
+	dbo:genre	dbr:Satire , dbr:Mockumentary , dbr:Cringe_comedy ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Consultant_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Consultant (TV series)"@en ;
+	dbo:company	dbr:MGM_Television , dbr:Amazon_Studios ;
+	dbo:genre	dbr:Dark_comedy ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:The_Corner
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Corner"@en ;
+	dbo:company	dbr:HBO_Films ;
+	dbo:genre	dbr:Drama ;
+	dbo:network	dbr:HBO .
+ns19:_A_Christmas_Tale
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Country Mouse and the City Mouse: A Christmas Tale"@en ;
+	dbo:company	dbr:HBO , dbr:Random_House ;
+	dbo:genre	dbr:Animation , dbr:Drama , dbr:Family ;
+	dbo:network	dbr:HBO .
+dbr:The_Country_Mouse_and_the_City_Mouse_Adventures
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Country Mouse and the City Mouse Adventures"@en ;
+	dbo:company	dbr:Cookie_Jar_Group , dbr:Western_International_Communications , dbr:Ravensburger , <http://dbpedia.org/resource/Reader\u0027s_Digest> , <http://dbpedia.org/resource/Motion_Pictures,_S.A.> , dbr:France_Animation ;
+	dbo:genre	dbr:Mystery_film , dbr:Neo-noir , dbr:Animation , <http://dbpedia.org/resource/Adventure_(genre)> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Crossover_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Crossover (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/20th_Television> , dbr:SpringHill_Company ;
+	dbo:genre	dbr:Coming_of_age , dbr:Sports_drama ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/The_Deuce_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Deuce (TV series)"@en ;
+	dbo:company	dbr:Rabbit_Bandini_Productions ;
+	dbo:genre	dbr:Period_drama ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Devil\u0027s_Hour>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Devil's Hour"@en ;
+	dbo:company	dbr:Hartswood_Films ;
+	dbo:genre	dbr:Supernatural_fiction , <http://dbpedia.org/resource/Drama_(film_and_television)> , <http://dbpedia.org/resource/Thriller_(genre)> ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/The_English_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The English (TV series)"@en ;
+	dbo:company	dbr:All3Media , dbr:Amazon_Studios ;
+	dbo:genre	<http://dbpedia.org/resource/Western_(genre)> , dbr:Drama ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/The_Expanse_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Expanse (TV series)"@en ;
+	dbo:company	dbr:Amazon_Studios , dbr:Alcon_Entertainment ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Science_fiction ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:The_Falcon_and_the_Winter_Soldier
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Falcon and the Winter Soldier"@en ;
+	dbo:company	dbr:Marvel_Studios ;
+	dbo:genre	dbr:Science_fiction_on_television , dbr:Action-adventure_fiction , dbr:Superhero_fiction , dbr:Buddy_comedy ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/The_Gilded_Age_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Gilded Age (TV series)"@en ;
+	dbo:company	dbr:Universal_Television , dbr:Gareth_Neame ;
+	dbo:genre	dbr:Historical_drama ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Girl_(2012_TV_film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Girl (2012 TV film)"@en ;
+	dbo:company	dbr:BBC , dbr:HBO ;
+	dbo:genre	dbr:Biographical_film , dbr:Drama_film ;
+	dbo:network	dbr:HBO .
+dbr:The_Guardians_of_the_Galaxy_Holiday_Special
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Guardians of the Galaxy Holiday Special"@en ;
+	dbo:company	dbr:Marvel_Studios ;
+	dbo:genre	dbr:Action-adventure_fiction , dbr:Christmas_television_special , dbr:Superhero_fiction , dbr:Science_fiction_comedy ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/The_High_Life_(American_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The High Life (American TV series)"@en ;
+	dbo:company	dbr:Worldwide_Pants ;
+	dbo:genre	dbr:Sitcom ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Idol_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Idol (TV series)"@en ;
+	dbo:company	dbr:Bron_Studios , dbr:A24 ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/The_Image_(1990_film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Image (1990 film)"@en ;
+	dbo:company	dbr:HBO_Pictures ;
+	dbo:genre	dbr:Drama ;
+	dbo:network	dbr:HBO .
+dbr:The_Lady_and_the_Dale
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"The Lady and the Dale"@en ;
+	dbo:company	dbr:Duplass_Brothers_Productions , dbr:HBO_Documentary_Films ;
+	dbo:genre	dbr:Television_documentary ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Arliss_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Arliss (TV series)"@en ;
+	dbo:company	ns20:Robbins_Productions ;
+	dbo:genre	dbr:Comedy , dbr:Sports_film ;
+	dbo:network	dbr:HBO .
+dbr:As_We_See_It
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"As We See It"@en ;
+	dbo:company	dbr:Universal_Television , dbr:Amazon_Studios , <http://dbpedia.org/resource/Yes_(Israel)> ;
+	dbo:genre	dbr:Comedy_drama ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Attack_of_the_50_Ft._Woman_(1993_film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Attack of the 50 Ft. Woman (1993 film)"@en ;
+	dbo:company	dbr:Media_8_Entertainment , <http://dbpedia.org/resource/Warner_Bros._Television> , dbr:HBO_Pictures ;
+	dbo:genre	dbr:Science_fiction_comedy ;
+	dbo:network	dbr:HBO .
+dbr:A_Higher_Calling
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"A Higher Calling"@en ;
+	dbo:company	dbr:Amazon_Studios ;
+	dbo:genre	dbr:Television_documentary ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:A_Small_Light
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"A Small Light"@en ;
+	dbo:company	dbr:ABC_Signature , dbr:National_Geographic ;
+	dbo:genre	dbr:Biographical_drama ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Chernobyl_(miniseries)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Chernobyl (miniseries)"@en ;
+	dbo:company	dbr:Sky_UK , dbr:HBO ;
+	dbo:genre	dbr:Tragedy , dbr:Historical_drama ;
+	dbo:network	dbr:HBO .
+ns21:_Park_Life
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Chip 'n' Dale: Park Life"@en ;
+	dbo:company	dbr:The_Walt_Disney_Company_France , dbr:Xilam ;
+	dbo:genre	dbr:Comedy , dbr:Slapstick ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+dbr:Just_Beyond
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Just Beyond"@en ;
+	dbo:company	<http://dbpedia.org/resource/Boom!_Studios> , <http://dbpedia.org/resource/20th_Television> , dbr:KatzSmith_Productions ;
+	dbo:genre	dbr:Anthology , dbr:Comedy_horror , <http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Science_fantasy ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/K_Street_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"K Street (TV series)"@en ;
+	dbo:company	dbr:Interface_Media_Group ;
+	dbo:genre	dbr:Comedy_drama ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Landscapers_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Landscapers (TV series)"@en ;
+	dbo:company	dbr:Sky_Studios ;
+	dbo:genre	dbr:True_crime , <http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Black_comedy ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/S\u00FAbete_a_Mi_Moto_(2020_TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"S\u00FAbete a Mi Moto (2020 TV series)"@en ;
+	dbo:company	dbr:Endemol_Shine_Group ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Biographical_film , dbr:Musical_film ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:Diary_of_a_Future_President
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Diary of a Future President"@en ;
+	dbo:company	dbr:CBS_Studios ;
+	dbo:genre	dbr:Comedy_drama ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Doogie_Kame\u0101loha,_M.D.>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Doogie Kame\u0101loha, M.D."@en ;
+	dbo:company	<http://dbpedia.org/resource/20th_Television> ;
+	dbo:genre	dbr:Medical_drama , dbr:Family_film ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Marvel\u0027s_Behind_the_Mask>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Marvel's Behind the Mask"@en ;
+	dbo:company	dbr:Marvel_New_Media ;
+	dbo:genre	dbr:Documentary ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Phil_Spector_(film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Phil Spector (film)"@en ;
+	dbo:company	dbr:HBO_Films ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Biographical_film ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Somebody_Somewhere_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Somebody Somewhere (TV series)"@en ;
+	dbo:company	dbr:Duplass_Brothers_Productions ;
+	dbo:genre	dbr:Comedy_drama ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Hysterical_Blindness_(film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Hysterical Blindness (film)"@en ;
+	dbo:company	dbr:Blumhouse_Productions ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:HBO .
+dbr:I_Am_Groot
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"I Am Groot"@en ;
+	dbo:company	dbr:Marvel_Studios ;
+	dbo:genre	dbr:Superhero_fiction , dbr:Family_film , dbr:Science_fiction , dbr:Comedy_television ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/I_Know_What_You_Did_Last_Summer_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"I Know What You Did Last Summer (TV series)"@en ;
+	dbo:company	dbr:Mandalay_Television , dbr:Amazon_Studios , dbr:Atomic_Monster_Productions , dbr:Sony_Pictures_Television_Studios , dbr:Original_Film ;
+	dbo:genre	dbr:Slasher_film , dbr:Horror_fiction , dbr:Teen_drama , <http://dbpedia.org/resource/Thriller_(genre)> ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:If_These_Walls_Could_Talk
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"If These Walls Could Talk"@en ;
+	dbo:company	dbr:HBO_Pictures ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Thriller_film ;
+	dbo:network	dbr:HBO .
+dbr:In_Pursuit_of_Honor
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"In Pursuit of Honor"@en ;
+	dbo:company	dbr:HBO_Pictures ;
+	dbo:genre	<http://dbpedia.org/resource/Western_(genre)> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Industry_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Industry (TV series)"@en ;
+	dbo:company	<http://dbpedia.org/resource/Bad_Wolf_(production_company)> ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:HBO .
+ns22:_The_Paws_of_Destiny
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Kung Fu Panda: The Paws of Destiny"@en ;
+	dbo:company	dbr:DreamWorks_Animation_Television , dbr:Amazon_Studios ;
+	dbo:genre	dbr:Action_film ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Mildred_Pierce_(miniseries)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Mildred Pierce (miniseries)"@en ;
+	dbo:company	dbr:MGM_Television , dbr:Killer_Films , dbr:HBO ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Mind_Over_Murder_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Mind Over Murder (TV series)"@en ;
+	dbo:company	dbr:Vox_Media , dbr:HBO_Films ;
+	dbo:genre	dbr:Television_documentary ;
+	dbo:network	dbr:HBO .
+dbr:Mind_the_Malhotras
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Mind the Malhotras"@en ;
+	dbo:company	dbr:Born_Free_Entertainment , dbr:Applause_Entertainment_Limited ;
+	dbo:genre	dbr:Comedy_drama , <http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Nautilus_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Nautilus (TV series)"@en ;
+	dbo:company	dbr:All3Media ;
+	dbo:genre	<http://dbpedia.org/resource/Drama_(film_and_television)> , dbr:Adventure_fiction ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+dbr:Never_Scared
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Never Scared"@en ;
+	dbo:company	<http://dbpedia.org/resource/3_Arts_Entertainment> ;
+	dbo:genre	dbr:Stand-up_comedy ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Obi-Wan_Kenobi_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Obi-Wan Kenobi (TV series)"@en ;
+	dbo:company	dbr:Lucasfilm ;
+	dbo:genre	dbr:Science_fiction_on_television , dbr:Action-adventure_fiction , dbr:Space_opera ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+dbr:Olaf_Presents
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Olaf Presents"@en ;
+	dbo:company	dbr:Walt_Disney_Animation_Studios ;
+	dbo:genre	dbr:Comedy_film ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/Olive_Kitteridge_(miniseries)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Olive Kitteridge (miniseries)"@en ;
+	dbo:company	dbr:HBO , dbr:Playtone ;
+	dbo:genre	dbr:Tragedy , <http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:HBO .
+dbr:RWBY
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"RWBY"@en ;
+	dbo:company	dbr:Rooster_Teeth ;
+	dbo:genre	dbr:Action_fiction , dbr:Adventure_fiction , dbr:Science_fantasy ;
+	dbo:network	dbr:Amazon_Prime_Video .
+dbr:Random_Acts_of_Flyness
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Random Acts of Flyness"@en ;
+	dbo:company	dbr:Anonymous_Content , dbr:A24 , <http://dbpedia.org/resource/Warner_Bros._Television_Distribution> ;
+	dbo:genre	dbr:Sketch_comedy ;
+	dbo:network	dbr:HBO .
+ns23:_Dark_Servant_of_Destiny
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Rasputin: Dark Servant of Destiny"@en ;
+	dbo:company	dbr:HBO_Pictures ;
+	dbo:genre	dbr:Historical_drama , dbr:Biographical_film ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Reacher_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Reacher (TV series)"@en ;
+	dbo:company	dbr:Skydance_Television , dbr:Amazon_Studios , dbr:Paramount_Television_Studios ;
+	dbo:genre	dbr:Detective_fiction , dbr:Crime_drama , dbr:Action_film , <http://dbpedia.org/resource/Thriller_(genre)> ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Secret_Invasion_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Secret Invasion (TV series)"@en ;
+	dbo:company	dbr:Marvel_Studios ;
+	dbo:genre	dbr:Action-adventure_fiction , dbr:Spy_thriller , <http://dbpedia.org/resource/Superhero_(genre)> ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+dbr:Sesame_Street
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Sesame Street"@en ;
+	dbo:company	dbr:Sesame_Workshop ;
+	dbo:genre	<http://dbpedia.org/resource/Children\u0027s_television_series> , dbr:Educational_television ;
+	dbo:network	dbr:HBO .
+dbr:Sex_and_the_City
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Sex and the City"@en ;
+	dbo:company	dbr:Darren_Star , dbr:HBO ;
+	dbo:genre	dbr:Comedy_drama , dbr:Romantic_comedy , dbr:Sex_comedy ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Se\u00F1oras_del_(h)AMPA>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Se\u00F1oras del (h)AMPA"@en ;
+	dbo:company	<http://dbpedia.org/resource/Mediaset_Espa\u00F1a> ;
+	dbo:genre	dbr:Dark_comedy ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Sharp_Objects_(miniseries)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Sharp Objects (miniseries)"@en ;
+	dbo:company	dbr:Blumhouse_Productions , dbr:Entertainment_One ;
+	dbo:genre	dbr:Mystery_fiction , dbr:Psychological_thriller , dbr:Southern_Gothic , <http://dbpedia.org/resource/Drama_(film_and_television)> ;
+	dbo:network	dbr:HBO .
+ns24:_Attorney_at_Law
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"She-Hulk: Attorney at Law"@en ;
+	dbo:company	dbr:Marvel_Studios ;
+	dbo:genre	dbr:Science_fiction_on_television , dbr:Action-adventure_fiction , dbr:Legal_drama , dbr:Superhero_fiction , dbr:Television_comedy ;
+	dbo:network	<http://dbpedia.org/resource/Disney+> .
+<http://dbpedia.org/resource/With_Love_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"With Love (TV series)"@en ;
+	dbo:company	dbr:Amazon_Studios ;
+	dbo:genre	dbr:Romantic_comedy ;
+	dbo:network	dbr:Amazon_Prime_Video .
+<http://dbpedia.org/resource/Witness_Protection_(film)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Witness Protection (film)"@en ;
+	dbo:company	dbr:HBO_Films ;
+	dbo:genre	dbr:Crime_drama ;
+	dbo:network	dbr:HBO .
+<http://dbpedia.org/resource/Years_and_Years_(TV_series)>
+	rdf:type	dbo:TelevisionShow ;
+	rdfs:label	"Years and Years (TV series)"@en ;
+	dbo:company	dbr:Red_Production_Company ;
+	dbo:genre	dbr:Science_fiction , dbr:Dramatic_programming , dbr:Dystopian_fiction , dbr:Black_comedy , dbr:Political_thriller ;
+	dbo:network	dbr:HBO .
